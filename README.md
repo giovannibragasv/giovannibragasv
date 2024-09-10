@@ -11,7 +11,7 @@ const giovanni: Record<string, string | string[]> = {
   studying: ["TypeScript", "Python", "PostgreSQL"],
   education: "Majoring in Computer Science",
   mainLanguages: ["Java", "JavaScript", "TypeScript"],
-  funFacts: ["collects vinyl", "always listening to music", "huge fan of formula one"]
+  funFacts: ["collects vinyl records", "always listening to music", "huge fan of formula one"]
 };
 ```
 
