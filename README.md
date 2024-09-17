@@ -17,7 +17,7 @@ const giovanni: Record<string, string | string[]> = {
 
 
 <details>
-  <summary>🏎️ skills and stats</summary>
+  <summary>🏎️ skills and stats </summary>
 
   <div align="center">
     <a href="https://skillicons.dev">
