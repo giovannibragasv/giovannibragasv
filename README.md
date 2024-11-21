@@ -26,8 +26,8 @@ const giovanni: Record<string, string | string[]> = {
     
 
   <div align="center">
-    <img height="165em" src="https://github-readme-stats-8kz0x20rg-giovannibragasvs-projects.vercel.app/api?username=giovannibragasv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="165em" width="350em" src="https://github-readme-stats-virid-three-89.vercel.app/api/top-langs/?username=giovannibragasv&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="165em" src="https://github-readme-stats-seven-green-27.vercel.app/api?username=giovannibragasv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="165em" width="350em" src="https://github-readme-stats-seven-green-27.vercel.app/api/top-langs/?username=giovannibragasv&layout=compact&langs_count=7&theme=transparent"/>
   </div>
 </details>
 
