@@ -17,4 +17,9 @@ const giovanni: Record<string, string | string[]> = {
   <div align="center">
       <a href="https://github.com/kittinan/spotify-github-profile"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=giovannibsvasconcelos&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile"> </a>
   </div>
+
+  <div align="center">
+    <img height="165em" src="https://github-readme-stats-seven-green-27.vercel.app/api?username=giovannibragasv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="165em" width="350em" src="https://github-readme-stats-seven-green-27.vercel.app/api/top-langs/?username=giovannibragasv&layout=compact&langs_count=7&theme=transparent"/>
+  </div>
 </samp>
